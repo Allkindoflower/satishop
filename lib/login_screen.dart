@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:satishop/dashboard_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -24,7 +25,7 @@ class _LoginScreenState extends State<LoginScreen> {
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 children: [
-                  Icon(Icons.wechat_outlined, size: 55),
+                  Icon(Icons.data_exploration_outlined, size: 55),
 
                   SizedBox(height: 40),
 
@@ -78,7 +79,13 @@ class _LoginScreenState extends State<LoginScreen> {
                     ),
                     onPressed: () {
                       if (formKey.currentState!.validate()) {
-                        // page change succeeds
+                        Navigator.push(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) =>
+                                DashboardScreen(name: nameController.text),
+                          ),
+                        );
                       }
                     },
                     child: Text(
