@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:satishop/mini_card.dart';
 
 class DashboardScreen extends StatefulWidget {
   final String name;
@@ -164,7 +165,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
                 itemBuilder: (context, index) {
                   var name = names[index];
 
-                  return Text(name);
+                  return MiniCard(name: name);
                 },
               ),
             ),
