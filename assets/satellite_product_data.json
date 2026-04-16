@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "International Space Station (ISS)",
+        "price": "150 billion USD",
+        "description": "The largest modular space station currently in low Earth orbit.",
+        "time_in_orbit": "28 years",
+        "image_key": "iss"
+    },
+    {
+        "id": 2,
+        "name": "Hubble Space Telescope",
+        "price": "16 billion USD",
+        "description": "Space-based observatory providing high-resolution images of deep space.",
+        "time_in_orbit": "36 years",
+        "image_key": "hubble"
+    },
+    {
+        "id": 3,
+        "name": "Starlink G7-9",
+        "price": "300,000 USD",
+        "description": "Mass-produced communication satellite for global high-speed internet access.",
+        "time_in_orbit": "2 years",
+        "image_key": "starlink"
+    },
+    {
+        "id": 4,
+        "name": "James Webb Space Telescope (JWST)",
+        "price": "10 billion USD",
+        "description": "Infrared observatory designed to solve mysteries in our solar system.",
+        "time_in_orbit": "4 years",
+        "image_key": "jwst"
+    },
+    {
+        "id": 5,
+        "name": "GOES-R (GOES-16)",
+        "price": "500 million USD",
+        "description": "Advanced weather satellite providing continuous imagery of the Western Hemisphere.",
+        "time_in_orbit": "10 years",
+        "image_key": "goes"
+    },
+    {
+        "id": 6,
+        "name": "Landsat 9",
+        "price": "885 million USD",
+        "description": "Earth-observing satellite monitoring land use and natural resources.",
+        "time_in_orbit": "5 years",
+        "image_key": "landsat"
+    },
+    {
+        "id": 7,
+        "name": "GPS III-SV05",
+        "price": "529 million USD",
+        "description": "Navigation satellite providing precise positioning and timing data globally.",
+        "time_in_orbit": "5 years",
+        "image_key": "gps"
+    },
+    {
+        "id": 8,
+        "name": "Iridium-NEXT 180",
+        "price": "4.8 million USD",
+        "description": "L-band mobile voice and data satellite for global communication.",
+        "time_in_orbit": "7 years",
+        "image_key": "iridium"
+    }
+]
