@@ -1,4 +1,4 @@
-<img width="421" height="905" alt="image" src="https://github.com/user-attachments/assets/5a75cbed-6439-4464-98a5-46611cc8928e" /># 🛰️ SatiShop
+# 🛰️ SatiShop
 
 A mobile satellite mock sales catalog app built with Flutter.
 
