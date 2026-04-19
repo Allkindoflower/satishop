@@ -1,4 +1,4 @@
-# 🛰️ SatiShop
+<img width="421" height="905" alt="image" src="https://github.com/user-attachments/assets/5a75cbed-6439-4464-98a5-46611cc8928e" /># 🛰️ SatiShop
 
 A mobile satellite mock sales catalog app built with Flutter.
 
@@ -23,7 +23,7 @@ This project was developed as part of the Software Persona internship program.
 
 ## 🛠️ Tech Stack
 
-- **Flutter** (Dart)
+- **Flutter: Version 3.41.6** (Dart)
 - **StatefulWidget / StatelessWidget** architecture
 - **Android Studio** For mobile phone emulation
 
